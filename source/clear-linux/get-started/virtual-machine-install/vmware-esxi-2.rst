@@ -317,19 +317,19 @@ Create and configure a new VM settings
 .. _VirtualBox: https://www.virtualbox.org/
 .. _image: https://download.clearlinux.org/image
 .. _releases: https://download.clearlinux.org/releases
-.. |vmware-01| image:: figures/vmware-figure-1.png
-.. |vmware-02| image:: figures/vmware-figure-2.png
-.. |vmware-03| image:: figures/vmware-figure-3.png
-.. |vmware-04| image:: figures/vmware-figure-4.png
-.. |vmware-05| image:: figures/vmware-figure-5.png
-.. |vmware-06| image:: figures/vmware-figure-6.png
-.. |vmware-07| image:: figures/vmware-figure-7.png
-.. |vmware-08| image:: figures/vmware-figure-8.png
-.. |vmware-09| image:: figures/vmware-figure-9.png
-.. |vmware-10| image:: figures/vmware-figure-10.png
-.. |vmware-11| image:: figures/vmware-figure-11.png
-.. |vmware-12| image:: figures/vmware-figure-12.png
-.. |vmware-15| image:: figures/vmware-figure-15.png
-.. |vmware-19| image:: figures/vmware-figure-19.png
-.. |vmware-20| image:: figures/vmware-figure-20.png
-.. |vmware-21| image:: figures/vmware-figure-21.png
+.. |vmware-01| image:: figures/vmware-esxi/vmware-figure-1.png
+.. |vmware-02| image:: figures/vmware-esxi/vmware-figure-2.png
+.. |vmware-03| image:: figures/vmware-esxi/vmware-figure-3.png
+.. |vmware-04| image:: figures/vmware-esxi/vmware-figure-4.png
+.. |vmware-05| image:: figures/vmware-esxi/vmware-figure-5.png
+.. |vmware-06| image:: figures/vmware-esxi/vmware-figure-6.png
+.. |vmware-07| image:: figures/vmware-esxi/vmware-figure-7.png
+.. |vmware-08| image:: figures/vmware-esxi/vmware-figure-8.png
+.. |vmware-09| image:: figures/vmware-esxi/vmware-figure-9.png
+.. |vmware-10| image:: figures/vmware-esxi/vmware-figure-10.png
+.. |vmware-11| image:: figures/vmware-esxi/vmware-figure-11.png
+.. |vmware-12| image:: figures/vmware-esxi/vmware-figure-12.png
+.. |vmware-15| image:: figures/vmware-esxi/vmware-figure-15.png
+.. |vmware-19| image:: figures/vmware-esxi/vmware-figure-19.png
+.. |vmware-20| image:: figures/vmware-esxi/vmware-figure-20.png
+.. |vmware-21| image:: figures/vmware-esxi/vmware-figure-21.png
