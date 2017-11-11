@@ -124,7 +124,8 @@ is located.
    can press the :kbd:`Tab` key to highlight the :guilabel:`< Refresh >`
    button and press :kbd:`Enter` to attempt to reconnect to the |CL| update
    server. If this fails to establish a connection after multiple attempts,
-   reboot your system and return to this step.
+   reboot your system and return to this step. At the moment a wired 
+   connection is required.
 
 Once the connection to the |CL| udpate server is established, use the
 :kbd:`Tab` key to advance to the :guilabel:`< Next >` button and press
